@@ -39,6 +39,8 @@ dan ini adalah baris perintah untuk membuat perintah "lihat"
             no += 1
 ```
 
+![tugas_9](foto9/lihat9.PNG)<br>
+
 
 ### Membuat baris perintah "tambah"
 kali ini kita akan membuat baris perintah "tambah" untuk menambahkan data kedalam syntax database tersebut, berikut adalah baris perintahnya:
@@ -67,7 +69,7 @@ kali ini kita akan membuat baris perintah "tambah" untuk menambahkan data kedala
             no += 1
 ```
 
-
+![tugas_9](foto9/tambah9.PNG)
 ### Membuat pintasan ubah dalam database dibawah
 
 ```python
@@ -118,7 +120,7 @@ kali ini kita akan membuat baris perintah "tambah" untuk menambahkan data kedala
 ```
 
 
-![tugas_9](foto9/lihat9.PNG)<br>
+
 
 ## Berikut Inputannya :
 nilai = []
