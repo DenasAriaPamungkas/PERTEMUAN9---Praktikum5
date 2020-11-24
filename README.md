@@ -10,8 +10,19 @@ ________________________________________________________________________________
 ## Program Data Mahasiswa
 pada praktikum 4 ini, saya akan membuat program sederhana untuk menginput data kedalam list.
 
-### Membuat pintasan "keluar"
-Kali ini kita akan membuat perintah "keluar" dengan baris perintah sebagai berikut
+
+DAFTAR ISI
+| No | Description | Link |
+| ----- | ----- | ----- |
+| 1 | Tugas Pertemuan 9 | [click here](#Membuat-Pintasan-"Keluar")
+| 2 | Tugas Pertemuan 9 | [click here](#Membuat-Pintasan-"Lihat")
+| 3 | Tugas Pertemuan 9 | [click here](#Membuat-Pintasan-"Tambah")
+| 4 | Tugas Pertemuan 9 | [click here](#Membuat-Pintasan-"Ubah")
+| 5 | Tugas Pertemuan 9 | [click here](#Membuat-Pintasan-"Cari")
+| 6 | Tugas Pertemuan 9 | [click here](#Membuat-Pintasan-"Hapus")
+| 7 | Tugas Pertemuan 9 | [click here](#Hasil-Akhir)
+### Membuat Pintasan "Keluar"
+Kali ini kita akan membuat pintasan "keluar" dengan baris perintah sebagai berikut
 
 ```python
     if menu.lower() == 'k':
@@ -22,7 +33,7 @@ Kali ini kita akan membuat perintah "keluar" dengan baris perintah sebagai berik
 ![tugas_9](foto9/keluar9.PNG)<br>
 
 
-### Membuat perintah "lihat"
+### Membuat Pintasan "lihat"
 dan ini adalah baris perintah untuk membuat perintah "lihat"
 
 ```python
@@ -45,7 +56,7 @@ dan ini adalah baris perintah untuk membuat perintah "lihat"
 
 
 
-### Membuat baris perintah "tambah"
+### Membuat Pintasan "Tambah"
 kali ini kita akan membuat baris perintah "tambah" untuk menambahkan data baru kedalam syntax database tersebut, berikut adalah baris perintahnya:
 
 ```python
@@ -78,7 +89,7 @@ Berikut adalah tampilan outputnya;
 
 
 
-### Membuat pintasan "ubah" dalam database dibawah
+### Membuat Pintasan "Ubah"
 baris perintah dibawah ini digunakan untuk membuat pintasan "ubah" pada database, yang dimana pintasan ini berguna untuk mengubah data yang telah ada di dalam database tersebut. Disini, kita bisa mengubah nama, Nim, nilai tugas, nilai UTS serta nilai UAS. Sesuaikan data yang ingin kamu ganti. Seperti contoh dibawah, saya akan mengubah nama yang ada di dalam database.
 
 
@@ -133,7 +144,7 @@ Berikut adalah tampilan outputnya;
 ![tugas_9](foto9/ubah9.PNG)<br>
 
 
-### Membuat pintasan "cari"
+### Membuat Pintasan "Cari"
 Pintasan "cari" dibuat untuk memudahkan kita mencari data yang kita inginkan di dalam database, baris perintahnya adalah
 
 ```python
@@ -156,7 +167,7 @@ Berikut adalah tampilan outputnya;
 ![tugas_9](foto9/cari9.PNG)<br>
 
 
-### Membuat Pintasan "hapus"
+### Membuat Pintasan "Hapus"
 Pintasan "hapus" ini berfungsi untuk menghapus data yang ada di dalam database, berikut adalah baris perintahnya
 
 ```python
@@ -176,6 +187,8 @@ Pintasan "hapus" ini berfungsi untuk menghapus data yang ada di dalam database, 
 Berikut adalah tampilan outputnya;
 ![tugas_9](foto9/hapus9.PNG)<br>
 
+
+### Hasil Akhir
 
 Pada pertemuan kali ini hasil akhir atau tampilan output yang diminta oleh bapak/ibu dosen pada praktikum 5 adalah sebagai berikut
 
