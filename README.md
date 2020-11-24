@@ -8,7 +8,7 @@ TUGAS DIBUAT UNTUK MEMENUHI TUGAS PADA PERTEMUAN 9
 ### Matkul : Bahasa Pemrograman
 ________________________________________________________________________________________________________________
 ## Program Data Mahasiswa
-pada praktikum 4 ini, saya akan membuat program sederhana untuk menginput data kedalam list.
+pada praktikum 5 ini, saya akan membuat program sederhana untuk menginput data kedalam list.
 
 
 
