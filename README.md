@@ -18,7 +18,7 @@ Kali ini kita akan membuat perintah "keluar" dengan baris perintah sebagai berik
         break
 ```
 
-Berikut adalah tampilan outputnya;
+
 ![tugas_9](foto9/keluar9.PNG)<br>
 
 
@@ -41,7 +41,6 @@ dan ini adalah baris perintah untuk membuat perintah "lihat"
 ```
 
 
-Berikut adalah tampilan outputnya;
 ![tugas_9](foto9/lihat9.PNG)<br>
 
 
