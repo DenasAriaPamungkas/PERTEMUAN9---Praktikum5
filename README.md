@@ -21,6 +21,7 @@ Kali ini kita akan membuat perintah "keluar" dengan baris perintah sebagai berik
 Berikut adalah tampilan outputnya;
 ![tugas_9](foto9/keluar9.PNG)<br>
 
+
 ### Membuat perintah "lihat"
 dan ini adalah baris perintah untuk membuat perintah "lihat"
 
@@ -39,8 +40,10 @@ dan ini adalah baris perintah untuk membuat perintah "lihat"
             no += 1
 ```
 
+
 Berikut adalah tampilan outputnya;
 ![tugas_9](foto9/lihat9.PNG)<br>
+
 
 
 ### Membuat baris perintah "tambah"
@@ -70,8 +73,10 @@ kali ini kita akan membuat baris perintah "tambah" untuk menambahkan data baru k
             no += 1
 ```
 
+
 Berikut adalah tampilan outputnya;
 ![tugas_9](foto9/tambah9.PNG)<br>
+
 
 
 ### Membuat pintasan "ubah" dalam database dibawah
@@ -124,6 +129,7 @@ baris perintah dibawah ini digunakan untuk membuat pintasan "ubah" pada database
             print("'{}' tidak ditemukan.".format(nama))
 ```
 
+
 Berikut adalah tampilan outputnya;
 ![tugas_9](foto9/ubah9.PNG)<br>
 
@@ -149,6 +155,27 @@ Pintasan "cari" dibuat untuk memudahkan kita mencari data yang kita inginkan di 
 
 Berikut adalah tampilan outputnya;
 ![tugas_9](foto9/cari9.PNG)<br>
+
+
+### Membuat Pintasan "hapus"
+Pintasan "hapus" ini berfungsi untuk menghapus data yang ada di dalam database, berikut adalah baris perintahnya
+
+```python
+    elif menu.lower() == 'h':
+        nama = input("Masukan nama untuk menghapus sub_data : ")
+        if nama in data.keys():
+            del data[nama]
+            print("sub_data '{}' berhasil dihapus.".format(nama))
+        else:
+            print("'{}' tidak ditemukan.".format(nama))
+
+    else:
+        print("Upss ada yang salah, silahkan cek kembali.")
+```
+
+
+Berikut adalah tampilan outputnya;
+![tugas_9](foto9/hapus9.PNG)<br>
 
 
 
