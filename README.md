@@ -2,7 +2,7 @@
 TUGAS DIBUAT UNTUK MEMENUHI TUGAS PADA PERTEMUAN 9
  
 
-###  Nama : Berliana Noviansyah
+### Nama : Berliana Noviansyah
 ### Kelas : TI.20.A1
 ### NIM : 312010373
 ### Matkul : Bahasa Pemrograman
