@@ -18,7 +18,7 @@ Kali ini kita akan membuat perintah "keluar" dengan baris perintah sebagai berik
         break
 ```
 
-
+Berikut adalah tampilan outputnya;
 ![tugas_9](foto9/keluar9.PNG)<br>
 
 ### Membuat perintah "lihat"
@@ -39,6 +39,7 @@ dan ini adalah baris perintah untuk membuat perintah "lihat"
             no += 1
 ```
 
+Berikut adalah tampilan outputnya;
 ![tugas_9](foto9/lihat9.PNG)<br>
 
 
@@ -69,6 +70,7 @@ kali ini kita akan membuat baris perintah "tambah" untuk menambahkan data baru k
             no += 1
 ```
 
+Berikut adalah tampilan outputnya;
 ![tugas_9](foto9/tambah9.PNG)<br>
 
 
@@ -122,7 +124,31 @@ baris perintah dibawah ini digunakan untuk membuat pintasan "ubah" pada database
             print("'{}' tidak ditemukan.".format(nama))
 ```
 
+Berikut adalah tampilan outputnya;
 ![tugas_9](foto9/ubah9.PNG)<br>
+
+
+### Membuat pintasan "cari"
+Pintasan "cari" dibuat untuk memudahkan kita mencari data yang kita inginkan di dalam database, baris perintahnya adalah
+
+```python
+ elif menu.lower() == 'c':
+        print("Mencari data: ")
+        print("=================================================")
+        nama = input("Masukan nama untuk mencari data: ")
+        if nama in data.keys():
+            print('\nResult')
+            print("Nama: {0}\nNIM : {1}\nNilai Tugas: {2}\nUTS: {3}\nUAS: {4}\nNilai akhir: {5}"
+                  .format(nama, data[nama][1],
+                                data[nama][2], data[nama][3],
+                                data[nama][4], data[nama][5]))
+        else:
+            print("'{}' tidak ditemukan.".format(nama))
+```
+
+
+Berikut adalah tampilan outputnya;
+![tugas_9](foto9/cari9.PNG)<br>
 
 
 
