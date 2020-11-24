@@ -10,7 +10,7 @@ ________________________________________________________________________________
 ## Program Data Mahasiswa
 pada praktikum 4 ini, saya akan membuat program sederhana untuk menginput data kedalam list.
 
-### Membuat perintah "keluar"
+### Membuat pintasan "keluar"
 Kali ini kita akan membuat perintah "keluar" dengan baris perintah sebagai berikut
 
 ```python
@@ -43,7 +43,7 @@ dan ini adalah baris perintah untuk membuat perintah "lihat"
 
 
 ### Membuat baris perintah "tambah"
-kali ini kita akan membuat baris perintah "tambah" untuk menambahkan data kedalam syntax database tersebut, berikut adalah baris perintahnya:
+kali ini kita akan membuat baris perintah "tambah" untuk menambahkan data baru kedalam syntax database tersebut, berikut adalah baris perintahnya:
 
 ```python
     elif menu.lower() == 't':
@@ -69,11 +69,14 @@ kali ini kita akan membuat baris perintah "tambah" untuk menambahkan data kedala
             no += 1
 ```
 
-![tugas_9](foto9/tambah9.PNG)
-### Membuat pintasan ubah dalam database dibawah
+![tugas_9](foto9/tambah9.PNG)<br>
+
+
+### Membuat pintasan "ubah" dalam database dibawah
+baris perintah dibawah ini digunakan untuk membuat pintasan "ubah" pada database, yang dimana pintasan ini berguna untuk mengubah data yang telah ada di dalam database tersebut. Disini, kita bisa mengubah nama, Nim, nilai tugas, nilai UTS serta nilai UAS. Sesuaikan data yang ingin kamu ganti. Seperti contoh dibawah, saya akan mengubah nama yang ada di dalam database.
+
 
 ```python
-# Ubah
     elif menu.lower() == 'u':
         nama = input("Masukan nama untuk mengubah data: ")
         if nama in data.keys():
@@ -119,6 +122,7 @@ kali ini kita akan membuat baris perintah "tambah" untuk menambahkan data kedala
             print("'{}' tidak ditemukan.".format(nama))
 ```
 
+![tugas_9](foto9/ubah9.PNG)<br>
 
 
 
