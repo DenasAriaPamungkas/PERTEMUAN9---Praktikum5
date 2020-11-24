@@ -11,16 +11,7 @@ ________________________________________________________________________________
 pada praktikum 4 ini, saya akan membuat program sederhana untuk menginput data kedalam list.
 
 
-DAFTAR ISI
-| No | Description | Link |
-| ----- | ----- | ----- |
-| 1 | Tugas Pertemuan 9 | [click here](#Membuat-Pintasan-"Keluar")
-| 2 | Tugas Pertemuan 9 | [click here](#Membuat-Pintasan-"Lihat")
-| 3 | Tugas Pertemuan 9 | [click here](#Membuat-Pintasan-"Tambah")
-| 4 | Tugas Pertemuan 9 | [click here](#Membuat-Pintasan-"Ubah")
-| 5 | Tugas Pertemuan 9 | [click here](#Membuat-Pintasan-"Cari")
-| 6 | Tugas Pertemuan 9 | [click here](#Membuat-Pintasan-"Hapus")
-| 7 | Tugas Pertemuan 9 | [click here](#Hasil-Akhir)
+
 ### Membuat Pintasan "Keluar"
 Kali ini kita akan membuat pintasan "keluar" dengan baris perintah sebagai berikut
 
@@ -194,6 +185,3 @@ Pada pertemuan kali ini hasil akhir atau tampilan output yang diminta oleh bapak
 
 Berikut adalah tampilan outputnya;
 ![tugas_9](foto9/hasil9.PNG)<br>
-
-
-
