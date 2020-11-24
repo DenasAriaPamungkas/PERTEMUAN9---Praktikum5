@@ -2,10 +2,10 @@
 TUGAS DIBUAT UNTUK MEMENUHI TUGAS PADA PERTEMUAN 9
  
 
-###  Nama:Berliana Noviansyah
-### Kelas:TI.20.A1
-### NIM:312010373
-### MATKUL: BAHASA PEMROGRAMAN
+###  Nama : Berliana Noviansyah
+### Kelas : TI.20.A1
+### NIM : 312010373
+### Matkul: BAHASA PEMROGRAMAN
 ________________________________________________________________________________________________________________
 ## Program Data Mahasiswa
 pada praktikum 4 ini, saya akan membuat program sederhana untuk menginput data kedalam list.
