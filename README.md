@@ -2,9 +2,9 @@
 TUGAS DIBUAT UNTUK MEMENUHI TUGAS PADA PERTEMUAN 9
  
 
-### Nama : Berliana Noviansyah
+### Nama : Denas Aria Pamungkas
 ### Kelas : TI.20.A1
-### NIM : 312010373
+### NIM : 312010089
 ### Matkul : Bahasa Pemrograman
 ________________________________________________________________________________________________________________
 ## Program Data Mahasiswa
